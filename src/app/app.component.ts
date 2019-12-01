@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Angular8FirebaseStorage';
+  description = 'Angular8-Firebase Demo';
 }
